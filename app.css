@@ -9,7 +9,7 @@ body {
   align-items: center;
 }
 
-.cart-container {
+.card-container {
   width: 91%;
   height: auto;
   background-color: hsl(217, 19%, 24%);
@@ -18,7 +18,7 @@ body {
   position: relative;
 }
 
-.cart-title {
+.card-title {
   color: hsl(150, 100%, 66%);
   font-size: 12px;
   font-weight: 600;
@@ -28,6 +28,7 @@ body {
 }
 
 .advice {
+  min-height: 7rem;
   text-align: center;
   padding-bottom: 1.5rem;
 }
