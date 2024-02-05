@@ -12,8 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://tncy57.github.io/advice-generator/]
 
 ### Built with
 
@@ -28,6 +27,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://tuncayalp.42web.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tncy57)
+- Website - [Tuncay Alp](https://tuncayalp.42web.io)
+- Frontend Mentor - [@Tncy57](https://www.frontendmentor.io/profile/Tncy57)
 
