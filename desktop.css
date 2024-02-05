@@ -1,0 +1,49 @@
+@media screen and (min-width: 1440px) {
+  .cart-container {
+    width: 38%;
+    margin-top: 12%;
+  }
+
+  .cart-title {
+    font-size: 12px;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: 6px;
+    margin: 3rem 0 1.8rem;
+  }
+  
+  .advice {
+    margin: 0 auto 0;
+    width: 80%;
+  }
+
+  q {
+    text-align: start;
+    padding-left: 1rem;
+  }
+
+  .divider-mobile {
+    display: none;
+  }
+
+  .divider-desktop {
+    display: inline;
+    text-align: center;
+    padding-top: 0.8rem;
+    padding-bottom: 1rem;
+  }
+
+  .dice-wrapper {
+    left: 44%;
+  }
+
+  .dice-wrapper:hover {
+    cursor: pointer;
+    transition: 0.6s;
+    box-shadow: -1px 3px 27px -3px hsl(150, 100%, 66%);
+  }
+
+  .attribution {
+    margin-top: 2.5rem;
+  }
+}
